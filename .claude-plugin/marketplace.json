@@ -1,0 +1,19 @@
+{
+  "name": "saropatzi-tools",
+  "owner": {
+    "name": "saropatzi"
+  },
+  "metadata": {
+    "description": "saropatzi's Claude Code plugins"
+  },
+  "plugins": [
+    {
+      "name": "claude-planners",
+      "source": {
+        "source": "github",
+        "repo": "saropatzi/ClaudePlanners"
+      },
+      "description": "Template-based plan creation with interactive refinement"
+    }
+  ]
+}
