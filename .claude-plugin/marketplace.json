@@ -22,6 +22,14 @@
         "repo": "saropatzi/ClaudeReviewers"
       },
       "description": "Multi-agent parallel code review with automated fix loop"
+    },
+    {
+      "name": "master-of-tasks",
+      "source": {
+        "source": "github",
+        "repo": "saropatzi/MasterOfTasks"
+      },
+      "description": "Orchestrates plan implementation with automated code review loops"
     }
   ]
 }
